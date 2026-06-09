@@ -1,7 +1,7 @@
 er_patients = [
     "ER01|Nguyen Van Quan|HR:115|TEMP:39.5",
     "ER02|Tran Thi Binh|HR:80|TEMP:37.0",
-    "ER03|Le Van Cuong|HR:130|TEMP:38.2"
+    "ER03|Le Van Xua|HR:130|TEMP:38.2"
 ]
 
 def parse_patient(data):
